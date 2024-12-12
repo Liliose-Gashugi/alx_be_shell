@@ -1,4 +1,3 @@
 # shell_permissions
-## 1-who_am_i
-This script prints the effective username of the current user.
-
+## 0-iam_betty
+This script changes the current user to betty.
