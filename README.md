@@ -1,3 +1,3 @@
-# shell_permissions
-## 0-iam_betty
-This script changes the current user to betty.
+#Shell Permissions
+##0-iambetty
+This script changes the current user to betty
